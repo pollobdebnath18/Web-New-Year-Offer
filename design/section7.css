@@ -1,0 +1,53 @@
+
+.section7{
+   margin-top: 100px;
+}
+.part7_best {
+    color: rgba(255, 0, 0, 1);
+
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 10px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.part7_our {
+    color: rgba(7, 2, 17, 1);
+
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 10px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.part7_dolor {
+    color: rgba(7, 2, 17, 0.6);
+
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-right: 540px;
+    padding-bottom: 40px;
+}
+.part7_flex_img1{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+.img73{
+    width: 350px;
+    height: 380px;
+}
+.part7_flex_img2{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
