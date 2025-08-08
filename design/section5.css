@@ -1,5 +1,7 @@
 .section5 {
     margin-top: 100px;
+    background-color: whitesmoke;
+    border-radius: 13px;
 }
 
 .part5_offer {
@@ -34,10 +36,10 @@
     font-family: Inter;
     font-size: 14px;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 22px;
     letter-spacing: 0%;
     text-align: left;
-    padding-right: 100px;
+    padding-right: 50px;
 }
 
 .part5_year {
@@ -57,12 +59,10 @@
 }
 
 .part5_img {
-    height: 350px;
-    width: 400px;
-    padding-right: 150px;
+    height: 300px;
+    width: 360px;
+    padding-right: 100px;
 }
-
-.part5_image {}
 
 .part5_dolor1 {
     color: rgba(7, 2, 17, 0.6);
@@ -70,16 +70,20 @@
     font-family: Inter;
     font-size: 14px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 22px;
     letter-spacing: 0%;
     text-align: left;
     /* padding-right: 10px; */
 }
 .part5_img1{
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
 }
 .part5_third{
-    padding-right: 150px;
+    padding-right: 70px;
     /* padding-left: 10px; */
+}
+.part5_first_part{
+    padding-left: 30px;
+    padding-top: 20px;
 }
